@@ -133,6 +133,6 @@ div>
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" style="border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5obGtycWF0YThyM3NrODgwYTlzZ3R3NnE3eHo3c2dhNDh0MmVxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="600" height="500" style="border-radius: 10px;"/>
   <p style="font-style: italic; color: #00b4d8;">Thanks for visiting! Let's code the future together! 🚀</p>
 </div>
