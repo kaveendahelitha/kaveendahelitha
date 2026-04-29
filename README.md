@@ -1,138 +1,125 @@
-# <div align="center" style="font-size: 2em; animation: type 2s steps(40, end) infinite alternate;">👋 Kaveenda Helitha's GitHub</div>
-
-<style>
-@keyframes type {
-  from { width: 0; }
-  to { width: 100%; }
-}
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
-}
-section {
-  animation: fadeIn 1s ease-in-out;
-}
-img:hover {
-  transform: scale(1.1);
-  transition: transform 0.3s ease;
-}
-</style>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" style="border-radius: 50%;"/>
-  <h3 style="color: #00b4d8;">Full-Stack Developer | Tech Enthusiast | Innovator</h3>
-  <p>
-    <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=1DA1F2&label=Follow%20Me" alt="Twitter Follow"/></a>
-    <img src="https://komarev.com/ghpvc/?username=kaveendahelitha&label=Profile%20Views&color=ff2e63&style=flat-square&animate=true" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/stars/kaveendahelitha?color=ffd60a&style=social" alt="GitHub Stars"/>
-  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=120&section=header&text=Kaveenda%20Helitha&fontSize=42&fontColor=e8d5b7&fontAlignY=65&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%94%20Architect%20of%20Digital%20Experiences&descSize=14&descAlignY=88&descColor=a89880" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kaveendahelitha-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaveendahelitha)
+[![Email](https://img.shields.io/badge/Email-helitha40@gmail.com-c0392b?style=flat&logo=gmail&logoColor=white)](mailto:helitha40@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=kaveendahelitha&style=flat&color=5c6bc0&label=Profile+Views)](https://github.com/kaveendahelitha)
+[![GitHub Stars](https://img.shields.io/github/stars/kaveendahelitha?style=flat&color=f0c040&logo=github)](https://github.com/kaveendahelitha)
+
 </div>
 
 ---
 
-## 🌟 About Me
-<section>
-I'm a seasoned full-stack developer with a passion for crafting robust, scalable applications. I love exploring new technologies and turning ideas into reality with clean code and innovative solutions.
+## `$ whoami`
 
-- 🔭 **Currently working on**: .NET Core APIs, Next.js SSR apps
-- 🌱 **Learning**: MS SQL performance tuning, Next.js 14, Kubernetes
-- 💬 **Ask me about**: Microservices, RESTful APIs, or game dev
-- 📫 **Reach me at**: [helitha40@gmail.com](mailto:helitha40@gmail.com)
-- ⚡ **Fun fact**: Built a Pacman clone in a weekend hackathon!
-</section>
+> A seasoned full-stack developer crafting robust, scalable systems at the intersection of performance and elegance. Passionate about microservices architecture, developer experience, and turning complex problems into clean solutions.
+
+```yaml
+name:       Kaveenda Helitha
+role:       Full-Stack Developer
+focus:      [ ".NET Core APIs", "Next.js SSR", "Microservices", "Game Dev" ]
+learning:   [ "MS SQL Performance Tuning", "Next.js 14", "Kubernetes" ]
+building:   Production-grade APIs & Server-Side Rendered applications
+fun_fact:   Built a Pacman clone in a weekend hackathon
+contact:    helitha40@gmail.com
+```
 
 ---
 
-## 🎮 Contribution Graph
-<section>
+## `$ ls ./tech-stack`
+
+### Backend
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Database
+![MS SQL](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Mobile & Embedded
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+### Tools & Cloud
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+---
+
+## `$ git log --stat`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kaveendahelitha&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8d5b7&icon_color=a89880&text_color=c9d1d9&ring_color=a89880">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kaveendahelitha&show_icons=true&theme=default&hide_border=true&title_color=1a1a2e&icon_color=5c4033&text_color=24292f&ring_color=5c4033">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaveendahelitha&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kaveendahelitha&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8d5b7&text_color=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kaveendahelitha&layout=compact&theme=default&hide_border=true&title_color=1a1a2e&text_color=24292f">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaveendahelitha&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kaveendahelitha&theme=github-dark-blue&hide_border=true&background=0d1117&ring=a89880&fire=e8d5b7&currStreakLabel=a89880">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kaveendahelitha&theme=default&hide_border=true&ring=5c4033&fire=1a1a2e&currStreakLabel=5c4033">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaveendahelitha&theme=github-dark-blue&hide_border=true" alt="Streak Stats"/>
+</picture>
+
+</div>
+
+---
+
+## `$ ./contribution-graph.sh`
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaveendahelitha/kaveendahelitha/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaveendahelitha/kaveendahelitha/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/kaveendahelitha/kaveendahelitha/output/pacman-contribution-graph.svg" style="width: 100%; max-width: 600px;"/>
+  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/kaveendahelitha/kaveendahelitha/output/pacman-contribution-graph.svg" width="100%"/>
 </picture>
-</section>
 
 ---
 
-## 🛠️ Skills
-<section>
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="50" height="50" title=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MS SQL" width="50" height="50" title="MS SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50" title="Android"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" title="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="50" height="50" title="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" title="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" title="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50" title="TensorFlow"/>
+## `$ cat ./trophies.json`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=kaveendahelitha&theme=darkhub&no-frame=true&margin-w=8&no-bg=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=kaveendahelitha&theme=flat&no-frame=true&margin-w=8&no-bg=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=kaveendahelitha&theme=darkhub&no-frame=true&margin-w=8" alt="GitHub Trophies"/>
+  </picture>
 </div>
-</section>
-
-### Skill Radar
-<section>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kaveendahelitha/kaveendahelitha/main/radar-skills.svg" alt="Skill Radar" style="width: 100%; max-width: 400px; animation: pulse 2s infinite;"/>
-</div>
-</section>
-
-> *Note*: The radar graph showcases my proficiency in key technologies. Generated using Chart.js and hosted in my repo.
-
----
-
-## 📊 GitHub Stats
-<section>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaveendahelitha&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" style="margin: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaveendahelitha&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" style="margin: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaveendahelitha&theme=dracula&hide_border=true" alt="Streak Stats" style="margin: 10px;"/>
-</
-div>
-</section>
-
----
-
-## 🏆 Achievements
-<section>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kaveendahelitha&theme=dracula&no-frame=true" alt="GitHub Trophies"/>
-  </a>
-</div>
-</section>
-
----
-
-## 📬 Connect with Me
-<section>
-<div align="center">
-  <a href="https://twitter.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a>
-  <a href="https://linkedin.com/in/kaveendahelitha" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="mailto:helitha40@gmail.com"><img src="https://img.shields.io/badge/Email-helitha40@gmail.com-red?style=flat-square&logo=gmail" alt="Email"/></a>
-</div>
-</section>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5obGtycWF0YThyM3NrODgwYTlzZ3R3NnE3eHo3c2dhNDh0MmVxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="600" height="500" style="border-radius: 10px;"/>
-  <p style="font-style: italic; color: #00b4d8;">Thanks for visiting! Let's code the future together! 🚀</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=80&section=footer&fontSize=12&fontColor=a89880" />
+
+
+
 </div>
